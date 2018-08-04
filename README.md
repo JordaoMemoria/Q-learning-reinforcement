@@ -23,3 +23,7 @@ line 18 > configure the position of good terminal state, bad terminal state and 
 line 19 > this is the last configuration needed. You should just to repeat the initial position of player without the point like in last line.
 
 Now you run and see how the agent behave.
+
+# Reference
+
+To reference: L. Jordão Memória P. R. and José E. B. Maia, Q-learning reinforcement learning agent based on temporal differentiation applied to the grid world of NxN, Relatório Técnico - UECE, 2018 aug 03-17, Fortaleza, Ceará, Brazil, 2018 (in Portuguese: Agente de aprendizagem por reforço Q-learning baseado emdiferença temporal aplicado ao mundo quadriculado de NxN).
