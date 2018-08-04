@@ -26,4 +26,4 @@ Now you run and see how the agent behave.
 
 # Reference
 
-To reference: L. Jordão Memória P. R. and José E. B. Maia, Q-learning reinforcement learning agent based on temporal differentiation applied to the grid world of NxN, Relatório Técnico - UECE, 2018 aug 03-17, Fortaleza, Ceará, Brazil, 2018 (in Portuguese: Agente de aprendizagem por reforço Q-learning baseado emdiferença temporal aplicado ao mundo quadriculado de NxN).
+To cite: L. Jordão Memória P. R. and José E. B. Maia, Q-learning reinforcement learning agent based on temporal differentiation applied to the grid world of NxN, Relatório Técnico - UECE, 2018 aug 03-17, Fortaleza, Ceará, Brazil, 2018 (in Portuguese: Agente de aprendizagem por reforço Q-learning baseado emdiferença temporal aplicado ao mundo quadriculado de NxN).
